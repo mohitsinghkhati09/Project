@@ -1,3 +1,6 @@
+BLOCKCHAIN VOTING SYSTEM 
+
+
 In a digital age where election integrity and voter verification are more critical than ever, this project presents a secure and efficient web-based e-voting application. It leverages blockchain technology for transparent vote recording and facial recognition for real-time voter authentication—ensuring that each vote is legitimate, tamper-proof, and verifiable.
 
 The backend is powered by MongoDB, structured into three primary collections:
