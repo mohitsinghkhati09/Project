@@ -10,14 +10,7 @@ This system is ideal for organizations or institutions looking to implement reli
 📁 Project Structure
 The repository is organized into modular components to separate concerns across client, server, and smart contract logic:
 
-Blockchain-Based-E-Voting-System-using-Facial-Recognition/
-│
-├── client/                 # Frontend (React or similar) for voter interaction
-├── server/                 # Backend (Node.js or Python) for authentication, facial recognition, and API logic
-├── smart_contract/         # Solidity smart contracts to manage blockchain-based voting logic
-├── package.json            # Project dependencies and scripts (likely for Node.js environment)
-├── readme.md               # Project documentation
-🔍 Folder Descriptions
+
 client/:
 Houses the frontend code for the voting interface, user registration, login, and candidate selection.
 
